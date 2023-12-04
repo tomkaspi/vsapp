@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MOA38CsD9uSF59Wx+KTFB64n8Hz3Dz7Dj0r7mRfEPkutVeqV4zUvAmNPLLpPdGgriDtoxi770jEpMLTGqPsEaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tomka\\source\\repos\\vsapp1\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomka\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
